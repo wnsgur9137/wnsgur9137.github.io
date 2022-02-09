@@ -48,9 +48,9 @@ $|\&#36;|   |dollar sign
 /|\&#47;|   |slash
 :|\&#58;|   |colon
 ;|\&#59;|   |semicolon
-<|\&#60;|$&lt;$|less than sign
+<|\&#60;| \&lt; |less than sign
 =|\&#61;|   |equal sign
-\>|\&#62;|$&gt;$|greater than sign
+\>|\&#62;| \&gt; |greater than sign
 ?|\&#63;|   |question mark
 @|\&#64;|   |at symbol
 [|\&#91;|   |opening bracket
@@ -82,13 +82,13 @@ $ \Alpha \rightarrow \Omega $
 이름|사용법|반환
 :---:|:---:|:---:
 크다|>|>
-크거나 같다|\geq|$\geq$
+크거나 같다|\geq| $\geq$
 작다|<|<
-작거나 같다|\leq|$\leq$
-교집합|\cap|$\cap$
-합집합|\cup|$\cup$
-곱하기|\times|$\times$
-나누기|\div|$\div$
+작거나 같다|\leq| $\leq$
+교집합|\cap| $\cap$
+합집합|\cup| $\cup$
+곱하기|\times| $\times$
+나누기|\div| $\div$
 
 <br>
 
@@ -96,9 +96,9 @@ $ \Alpha \rightarrow \Omega $
 
 이름|사용법|반환
 :---:|:---:|:---:
-알파|\alpha|$\alpha$
-베타|\beta|$\beta$
-감마|\gamma|$\gamma$
+알파|\alpha| $\alpha$
+베타|\beta| $\beta$
+감마|\gamma| $\gamma$
 
 <br>
 
@@ -106,27 +106,28 @@ $ \Alpha \rightarrow \Omega $
 
 이름|사용법|반환
 :---:|:---:|:---:
-위쪽 화살표|\uparrow|$\uparrow$
-아래쪽 화살표|\downarrow|$\downarrow$
-오른쪽 화살표|\rightarrow|$\rightarrow$
-왼쪽 화살표|\leftarrow|$\leftarrow$
-양옆 화살표|\leftrightarrow|$\leftrightarrow$
-위아래 화살표|\updownarrow|$\updownarrow$
-두 줄 위쪽 화살표|\Uparrow|$\Uparrow$
-두 줄 아래쪽 화살표|\Downarrow|$\Downarrow$
-두 줄 오른쪽 화살표|\Rightarrow|$\Rightarrow$
-두 줄 왼쪽 화살표|\Leftarrow|$\Leftarrow$
-두 줄 양옆 화살표|\Leftrightarrow|$\Leftrightarrow$
-두 줄 위아래 화살표|\Updownarrow|$\Updownarrow$
+위쪽 화살표|\uparrow| $\uparrow$
+아래쪽 화살표|\downarrow| $\downarrow$
+오른쪽 화살표|\rightarrow| $\rightarrow$
+왼쪽 화살표|\leftarrow| $\leftarrow$
+양옆 화살표|\leftrightarrow| $\leftrightarrow$
+위아래 화살표|\updownarrow| $\updownarrow$
+두 줄 위쪽 화살표|\Uparrow| $\Uparrow$
+두 줄 아래쪽 화살표|\Downarrow| $\Downarrow$
+두 줄 오른쪽 화살표|\Rightarrow| $\Rightarrow$
+두 줄 왼쪽 화살표|\Leftarrow| $\Leftarrow$
+두 줄 양옆 화살표|\Leftrightarrow| $\Leftrightarrow$
+두 줄 위아래 화살표|\Updownarrow| $\Updownarrow$
+
 <br>
 
 ### 숫자
 
 이름|사용법|반환
 :---:|:---:|:---:
-3분의 2|_3^2|$_3^2$
-2의 10승|2^{10}|$2^{10}$
-2의 3분의 2승|2^{_3^2}|$2^{_3^2}$
+3분의 2|_3^2| $_3^2$
+2의 10승|2^{10}| $2^{10}$
+2의 3분의 2승|2^{_3^2}| $2^{_3^2}$
 
 <br>
 

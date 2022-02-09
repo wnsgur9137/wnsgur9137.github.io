@@ -1,8 +1,8 @@
 ---
 layout: post
-title: MAC OS 메뉴바 색상 변경하기
-description: "MAC OS Change Menu Bar Color"
-tags: [MAC, 공부]
+title: Github 원하는 파일만 Commit & Push 하기
+description: "Github 원하는 파일만 Commit & Push 하기"
+tags: [github, 공부]
 comments: true
 ---
 

@@ -60,7 +60,7 @@ $|\&#36;|   |dollar sign
 _|\&#95;|   |underscore
 `|\&#96;|   |grave accent
 {|\&#123;|   |opening brace
-||\&#124;|   |vertical bar - pipe
+\| |\&#124;|   |vertical bar - pipe
 }|\&#125;|   |closing brace
 ~|\&#126;|   |equivalency sign - tilde
 –|\&#8211;|   |en dash
@@ -89,6 +89,7 @@ $ \Alpha \rightarrow \Omega $
 합집합|\cup|$\cup$
 곱하기|\times|$\times$
 나누기|\div|$\div$
+
 <br>
 
 ### 그리스 알파벳
@@ -98,6 +99,7 @@ $ \Alpha \rightarrow \Omega $
 알파|\alpha|$\alpha$
 베타|\beta|$\beta$
 감마|\gamma|$\gamma$
+
 <br>
 
 ### 화살표
@@ -125,6 +127,7 @@ $ \Alpha \rightarrow \Omega $
 3분의 2|_3^2|$_3^2$
 2의 10승|2^{10}|$2^{10}$
 2의 3분의 2승|2^{_3^2}|$2^{_3^2}$
+
 <br>
 
 그 외 기호는 다음 링크에서 참고  
@@ -137,7 +140,7 @@ $ \Alpha \rightarrow \Omega $
 
 * 헤더와 셀을 구분할 때 3개 이상의 hyphen/dash 기호가 필요하다.
 * 헤더 셀을 구분하면서 :(Colons) 기호로 (열/칸) 안에 내용을 정렬할 수 있다.
-* 가장 좌측과 가장 우측에는 |(vertical bar) 기호는 생략이 가능하다.
+* 가장 좌측과 가장 우측에는 \|(vertical bar) 기호는 생략이 가능하다.
 
 <br>
 

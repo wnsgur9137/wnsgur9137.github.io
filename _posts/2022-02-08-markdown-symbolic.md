@@ -85,6 +85,9 @@ $ \Alpha \rightarrow \Omega $
 크거나 같다|\geq| $\geq$
 작다|<|<
 작거나 같다|\leq| $\leq$
+같지 않다|\neq| $\neq$
+<<|\ll| $\ll$
+\>> |\gg| $\gg$
 교집합|\cap| $\cap$
 합집합|\cup| $\cup$
 곱하기|\times| $\times$

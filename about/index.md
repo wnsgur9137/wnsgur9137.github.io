@@ -32,7 +32,7 @@ JSP를 이용한 블로그를 제작하다 github를 통한 블로그를 제작�
 ### * Desktop
   * Window 10 pro
   * CPU : AMD Ryzen7 3700x
-  * GPU : RTX 2060 6GB
+  * GPU : RTX 3060ti 8GB
   * RAM : 32GB 3200MHz
 
 <br><br>

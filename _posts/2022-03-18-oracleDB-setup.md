@@ -50,7 +50,7 @@ comments: true
 
 <span class='code'>user-name : system, password : oracle</span>
 
-![oracle_03](/images/docker/oracle_setup)
+![oracle_03](/images/docker/oracle_setup_3.png)
 
 <br>
 

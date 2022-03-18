@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [MAC] Docker 설치
+title: (MAC) Docker 설치
 description: "Docker 설치"
 tags: [MAC, 공부]
 comments: true

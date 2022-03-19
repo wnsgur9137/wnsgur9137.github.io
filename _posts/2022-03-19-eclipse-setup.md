@@ -63,7 +63,7 @@ comments: true
 
 %JAVA_HOME%\bin을 '위로 이동' 버튼을 눌러 맨 위로 이동시킨다.
 
-![jdksetup5](/iamges/eclipseSetup/jdksetup5.png)  
+![jdksetup5](/images/eclipseSetup/jdksetup5.png)  
 
 <br>
 

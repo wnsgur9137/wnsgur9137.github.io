@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [swift] 03. 컬렉션 타입
-description: "[swift] 컬렉션 타입"
+title: (swift) 03. 컬렉션 타입
+description: "(swift) 컬렉션 타입"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # 컬렉션 타입
+> # [swift] 03. 컬렉션 타입
 
 컬렉션 타입은 **데이터들의 집합 묶음**
 

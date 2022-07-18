@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [swift] 05. 조건문
-description: "[swift] 조건문"
+title: (swift) 05. 조건문
+description: "(swift) 조건문"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # 조건문
+> # [swift] 05. 조건문
 
 주어진 조건에 따라서 에플리케이션을 다르게 동작하도록 하는 것.
 

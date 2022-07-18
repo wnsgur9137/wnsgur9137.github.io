@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [swift] 01. 상수와 변수
-description: "[swift] 상수와 변수"
+title: (swift) 01. 상수와 변수
+description: "(swift) 상수와 변수"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # 상수와 변수
+> # [swift] 01. 상수와 변수
 
 ## 상수  
 변하지 않는 일정한 값

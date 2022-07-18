@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [swift] 02. 기본 데이터 타입
-description: "[swift] 기본 데이터 타입"
+title: (swift) 02. 기본 데이터 타입
+description: "(swift) 기본 데이터 타입"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # 기본 데이터 타입
+> # [swift] 02. 기본 데이터 타입
 
 - Int: 64bit 정수형
 - UInt: 부호가 없는 64bit 정수형

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [swift] 04. 함수
-description: "[swift] 함수"
+title: (swift) 04. 함수
+description: "(swift) 함수"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # 함수
+> # [swift] 04. 함수
 
 함수는 **작업의 가장 작은 단위이자 코드의 집합**이다.  
 함수를 사용하는 가장 큰 이유는 반복적인 프로그래밍을 피할 수 있기 때문이다.  

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 10. 초기화
+title: (swift) 10. Initialize (초기화)
 description: "(swift) 초기화"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 10. 초기화
+> # [swift] 10. Initialize (초기화)
 
 <br>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 05. 조건문
+title: (swift) 05. Conditional (조건문)
 description: "(swift) 조건문"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 05. 조건문
+> # [swift] 05. Conditional (조건문)
 
 <br>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 04. 함수
+title: (swift) 04. Function (함수)
 description: "(swift) 함수"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 04. 함수
+> # [swift] 04. Function (함수)
 
 <br>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 06. 반복문
+title: (swift) 06. Iteration (반복문)
 description: "(swift) 반복문"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 06. 반복문
+> # [swift] 06. Iteration (반복문)
 
 <br>
 

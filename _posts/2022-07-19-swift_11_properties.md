@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 11. 프로퍼티
+title: (swift) 11. Property (프로퍼티)
 description: "(swift) 프로퍼티"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 11. 프로퍼티
+> # [swift] 11. Property (프로퍼티)
 
 <br>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 01. 상수와 변수
+title: (swift) 01. let, var (상수와 변수)
 description: "(swift) 상수와 변수"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 01. 상수와 변수
+> # [swift] 01. let, var (상수와 변수)
 
 <br>
 

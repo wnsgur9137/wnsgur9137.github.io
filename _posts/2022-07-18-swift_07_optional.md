@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 07. 옵셔널과 옵셔널 바인딩
+title: (swift) 07. Optional, Optional binding (옵셔널과 옵셔널 바인딩)
 description: "(swift) 옵셔널, 옵셔널 바인딩"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 07. 옵셔널
+> # [swift] 07. Optional (옵셔널)
 
 <br>
 
@@ -51,7 +51,7 @@ optionalName: Optional("Gunter")
 <br>
 <br>
 
-> # 옵셔널 바인딩  
+> # Optional binding (옵셔널 바인딩)
 
 ## 옵셔널 해제 방법
 

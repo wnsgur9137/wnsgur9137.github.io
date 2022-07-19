@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 08. 구조체
+title: (swift) 08. Struct (구조체)
 description: "(swift) 구조체"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 08. 구조체
+> # [swift] 08. Struct (구조체)
 
 <br>
 

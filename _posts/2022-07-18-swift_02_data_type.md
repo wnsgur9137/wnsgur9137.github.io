@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) 02. 기본 데이터 타입
+title: (swift) 02. Data Type (기본 데이터 타입)
 description: "(swift) 기본 데이터 타입"
 tags: [swift, 공부]
 comments: true
 ---
 
-> # [swift] 02. 기본 데이터 타입
+> # [swift] 02. Data Type (기본 데이터 타입)
 
 <br>
 

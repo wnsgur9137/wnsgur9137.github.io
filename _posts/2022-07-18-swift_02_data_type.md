@@ -8,6 +8,8 @@ comments: true
 
 > # [swift] 02. 기본 데이터 타입
 
+<br>
+
 - Int: 64bit 정수형
 - UInt: 부호가 없는 64bit 정수형
 - Float: 32bit 부동 소수점

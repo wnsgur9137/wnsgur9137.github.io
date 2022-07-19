@@ -8,6 +8,8 @@ comments: true
 
 > # [swift] 06. 반복문
 
+<br>
+
 반복적으로 코드가 실행되게 만드는 구문을 말한다.
 
 **for-in**, **while**, **repeat-while** 문이 존재한다.

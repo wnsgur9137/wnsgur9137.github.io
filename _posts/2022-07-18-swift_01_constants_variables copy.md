@@ -8,6 +8,8 @@ comments: true
 
 > # [swift] 01. 상수와 변수
 
+<br>
+
 ## 상수  
 변하지 않는 일정한 값
 

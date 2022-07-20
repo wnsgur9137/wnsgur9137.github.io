@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (swift) BASIC_03. UINavigationController
-description: "(swift) UIKit"
+description: "(swift) UINavigationController"
 tags: [swift, basic, 공부]
 comments: true
 ---
@@ -16,6 +16,7 @@ comments: true
  - 화면을 구성하는 뷰를 직접 구현하고 관련된 이벤트를 처리하는 뷰 컨트롤러
 
 <br>
+<br>
 
 ## Container View Conroller
  - 하나 이상의 Child View Controller를 가지고 있다.
@@ -29,14 +30,18 @@ comments: true
 
 # UINavigationController
 
-<br>
-
 ## UINavigationController
  - 계층 구조로 구성된 content를 순차적으로 보여주는 container view controller이다.
+
+<br>
+<br>
 
 ## Navigation Stack
  - Navigation은 Stack 구조이다.
 ![stack](../images/basic/03_UINavigationController/stack.png)
+
+<br>
+<br>
 
 ## Navigation Bar
 ![navigationBar](../images/basic/03_UINavigationController/navigationBar.png)

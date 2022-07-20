@@ -16,11 +16,13 @@ comments: true
  - 화면의 직사각형 영역에 대한 내용을 관리하는 개체
 
 <br>
+<br>
 
 ## ViewController
  - 앱의 근간을 이루는 객체
  - 모든 앱은 최소한 하나 이상의 뷰 컨트롤러를 가지고 있다.
 
+<br>
 <br>
 
 ## ViewController의 주요 역할
@@ -41,22 +43,26 @@ comments: true
  - 다른 해상도에서도 화면을 똑같이 보여주기 위해 사용
 
 <br>
+<br>
 
 ## StoryBoard
  - IOS앱에 사용자 인터페이스를 시각적으로 표현하여 
  - 컨텐츠 화면과 화면간의 연결을 보여주는 도구
 
 <br>
+<br>
 
 ## Constraint
 ![constraint](../images/basic/02_UIViewController_AutoLayout/constraint.png)
 
+<br>
 <br>
 
 ## align
 정렬 제약 조건  
 ![align](../images/basic/02_UIViewController_AutoLayout/align.png)
 
+<br>
 <br>
 
 ## Resolve Auto Layout Issues

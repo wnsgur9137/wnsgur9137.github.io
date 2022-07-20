@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (swift) BASIC_04. ChangeView (화면 전환)
+title: (swift) BASIC_04. ScreenTransition (화면 전환)
 description: "(swift) 화면 전환"
 tags: [swift, basic, 공부]
 comments: true
 ---
 
-> # [swift] BASIC_04. ChangeView (화면 전환)
+> # [swift] BASIC_04. ScreenTransition (화면 전환)
 
 <br>
 

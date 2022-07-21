@@ -51,3 +51,10 @@ comments: true
  - ViewController의 View가 뷰 계층에서 사라지기 전 호출
  - View가 생성된 후 작업한 내용을 되돌리는 작업
  - 최종적으로 데이터를 저장하는 작업
+
+<br>
+<br>
+
+## viewDidDisappear()
+ - ViewController의 View가 뷰 계층에서 사라진 뒤 호출
+ - View가 사라지는 것과 관련된 추가 작업

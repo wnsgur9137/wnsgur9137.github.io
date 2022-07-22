@@ -39,38 +39,38 @@ flag
 
 completion
  - The block to execute after the presentation finishes. This block has no return value and takes no parameters. You may specify nil for this parameter.
- ```
+```
 
- <br>
- <br>
+<br>
+<br>
 
 
- ## Declaration 2
- ``` swift
- func dismiss(animated flag: Bool, completion: (() -> Void)? = nil)
- ```
+## Declaration 2
+``` swift
+func dismiss(animated flag: Bool, completion: (() -> Void)? = nil)
+```
 
- ## Parameters 2
- ```
+## Parameters 2
+```
 flag
  - Pass true to animate the transition.
 
 completion
  - The block to execute after the view controller is dismissed. This block has no return value and takes no parameters. You may specify nil for this parameter.
- ```
+```
 
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
 
- # Navigation Controller를 사용하여 화면 전환하기
+# Navigation Controller를 사용하여 화면 전환하기
 
- ## Declaration 1
- ``` swift
+## Declaration 1
+``` swift
 func pushViewController(_ viewController: UIViewController, animated: Bool)
- ```
+```
 
- ## Parameters 1
+## Parameters 1
 ```
 viewController
  - The view controller to push onto the stack. This object cannot be a tab bar controller. If the view controller is already on the navigation stack, this method throws an exception.
@@ -79,30 +79,30 @@ viewController
   - Specify true to animate the transition or false if you do not want the transition to be animated. You might specify false if you are setting up the navigation controller at launch time.
 ```
 
- <br>
- <br>
+<br>
+<br>
 
- ## Declaration 2
+## Declaration 2
 ``` swift
 func popViewController(animated: Bool) -> UIViewController?
 ```
 
- ## Parameters 2
- ```
+## Parameters 2
+```
 animated
  - Set this value to true to animate the transition. Pass false if you are setting up a navigation controller before its view is displayed.
- ```
+```
 
- ## Return Value
- ```
- The view controller that was popped from the stack.
- ```
+## Return Value
+```
+The view controller that was popped from the stack.
+```
 
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
 
- # 화면 전환용 객체 Segueway(세그웨이)를 사용하여 화면 전환하기
+# 화면 전환용 객체 Segueway(세그웨이)를 사용하여 화면 전환하기
 
 ## Segueway
  - 세그웨이에는 두 개의 ViewController 사이에 연결된 화면 전환 객체를 의미한다.

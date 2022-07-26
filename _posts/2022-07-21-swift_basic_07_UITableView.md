@@ -81,6 +81,8 @@ public protocol UITableViewDataSource: NSObjectProtocol {
 
 # UITableViewDelegate
  - UITableViewDelegate는 테이블 뷰의 시각적인 부분을 설정하고, 행의 액션 관리, 엑세서리 뷰 지원, 그리고 테이블 뷰의 개별 행 편집을 도와준다.
+
+
 ``` swift
 public protocol UITableViewDelegate: UiScrollViewDelegate {
 
